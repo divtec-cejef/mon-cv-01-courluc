@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+ul {
+    text-decoration: none;
+    color: white;
+}
+h1 {
+    font-family: "Arial Black";
+    color: lightgoldenrodyellow;
+    font-size: 2em;
+}
+h2 {
+    font-family: "Roboto";
+    color: beige;
+}
+p {
+    color: white;
+}
+footer {
+    color: aqua;
+}
+
