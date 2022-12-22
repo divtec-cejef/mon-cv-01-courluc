@@ -10,7 +10,7 @@ ul {
 }
 h1 {
     font-family: "Arial Black";
-    color: lightgoldenrodyellow;
+    color: #ff0000;
     font-size: 2em;
 }
 h2 {
@@ -18,7 +18,7 @@ h2 {
     color: silver;
 }
 p {
-    color: white;
+    color: white;<1
 }
 footer {
     color: green;
