@@ -3,6 +3,11 @@ body {
     max-width: 525px;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Chivo Mono', sans-serif;
+   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gull_portrait_ca_usa.jpg/450px-Gull_portrait_ca_usa.jpg");
+background-repeat: no-repeat ;
+    background-position: bottom;
+    background-size: 100%;
 }
 ul {
     text-decoration: none;
@@ -10,7 +15,7 @@ ul {
 }
 h1 {
     font-family: "Arial Black";
-    color: lightgoldenrodyellow;
+    color: #ff0000;
     font-size: 2em;
 }
 h2 {
@@ -18,7 +23,7 @@ h2 {
     color: silver;
 }
 p {
-    color: white;
+    color: white;<1
 }
 footer {
     color: green;
