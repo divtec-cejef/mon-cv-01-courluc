@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    max-width: 525px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    text-decoration: none;
+    color: white;
+}
+h1 {
+    font-family: "Arial Black";
+    color: lightgoldenrodyellow;
+    font-size: 2em;
+}
+h2 {
+    font-family: "Roboto";
+    color: silver;
+}
+p {
+    color: white;
+}
+footer {
+    color: green;
+}
+
