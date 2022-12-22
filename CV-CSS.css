@@ -1,5 +1,8 @@
 body {
     background-color: black;
+    max-width: 525px;
+    margin-left: auto;
+    margin-right: auto;
 }
 ul {
     text-decoration: none;
@@ -12,12 +15,12 @@ h1 {
 }
 h2 {
     font-family: "Roboto";
-    color: beige;
+    color: silver;
 }
 p {
     color: white;
 }
 footer {
-    color: aqua;
+    color: green;
 }
 
