@@ -1,0 +1,47 @@
+body {
+    /*Couleur de fond, alignement du texte et police personnalisée*/
+    background-color: black;
+    max-width: 525px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Pacifico', sans-serif;
+
+    /*image de fond du CV */
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gull_portrait_ca_usa.jpg/450px-Gull_portrait_ca_usa.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30%;
+
+    /*Bordure et ombre*/
+    border-right: white;
+    border-bottom: white;
+    border-left: white;
+    border-top: white;
+    border-width: 10px;
+    border-style: solid;
+
+    box-shadow: 6px 6px 6px red;
+}
+
+/*Couleur et alignement du texte*/
+ul {
+    text-decoration: none;
+    color: Green;
+}
+h1 {
+    text-align: center;
+    font-family: "pacifico",sans-serif;
+    color: #ff0000;
+    font-size: 2em;
+}
+h2 {
+    font-family: "arial",sans-serif;
+    color: silver;
+}
+p {
+    color: white;<1
+}
+footer {
+    color: green;
+}
+
