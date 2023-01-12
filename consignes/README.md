@@ -13,7 +13,7 @@ Pour cela, vous allez devoir créer votre première page HTML.
 **Avant de commencer**, réaliser les 7 chapitres de la [Partie 1 - Découvrez les base de HTML5 ](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3)
 , le 7e étant cet exercice 😀
 
-[![](images/oc-partie-1.png)](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3)
+[![](../images/oc-partie-1.png)](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3)
 
 
 
