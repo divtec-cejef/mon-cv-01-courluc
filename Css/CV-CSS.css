@@ -7,7 +7,7 @@ body {
     font-family: "arial", sans-serif;
 
     /*image de fond du CV */
-    background-image: url(https://img.freepik.com/photos-gratuite/fond-elegant-vide-espace-copie_24972-1807.jpg?w=2000);
+    background-image: url('https://img.freepik.com/photos-gratuite/fond-elegant-vide-espace-copie_24972-1807.jpg?w=2000');
     background-repeat: no-repeat;
     background-position: right;
     background-size: 100%;
@@ -17,6 +17,7 @@ body {
     border-bottom: black ;
     border-left: black;
     border-top: black;
+    /* remplacer par border-color: black */
     border-width: 2px;
     border-style: solid;
 
